@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://am24.akamaized.net/tms/cnt/uploads/2011/01/bellybuttonbacteria-550x403.jpg");
+}
+#pie {
+ margin-bottom: 5%;
+ margin-top: 0%;
+}
+#paragraph {
+    background-color: rgb(61, 20, 0);
+    color: white;
+    font-size: 17px;
+    padding: 10%;
+}
+.jumbotron {
+    background-color: rgb(61, 20, 0);
+    color: white;
+}
+.container {
+    background-color: rgba(75, 75, 75, 0.6);
+}
+#bubble{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+}
+#link{
+    color: white;
+    font-size: 20px;
+}
